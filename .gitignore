@@ -1,0 +1,4 @@
+build.sbt
+.idea
+CrackingScala.iml
+target
